@@ -16,7 +16,7 @@ npm install
 
 ## Usage
 
-From the */storage* folder start the server:
+From the */storage* folder start the REST API server:
 ~~~
 json-server --watch countries.json --port 3004
 ~~~
