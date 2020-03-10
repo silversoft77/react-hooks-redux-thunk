@@ -1,6 +1,6 @@
 # react-hooks-redux-thunk-pattern #
 
-A sample code to combine React Hooks with Redux Thunk middleware to test an action creator that fetches some data from a REST API.
+Sample code combining React Hooks and Redux Thunk middleware to call an action creator that fetches some data from a REST API.
 
 ## Install JSON Server
 
